@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.cheese.shiro.client.mybatis.ShiroMybatisAutoConfiguration
+

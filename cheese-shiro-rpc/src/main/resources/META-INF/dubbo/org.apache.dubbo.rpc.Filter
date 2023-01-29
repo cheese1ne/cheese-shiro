@@ -1,0 +1,3 @@
+consumerIdentityFilter=com.cheese.shiro.rpc.dubbo.filter.ConsumerIdentityTracerFilter
+providerIdentityFilter=com.cheese.shiro.rpc.dubbo.filter.ProviderIdentityTracerFilter
+
